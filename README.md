@@ -1,5 +1,5 @@
 # square-service
-##Task 2.3.1 for Netology JavaQA
+## Task 2.3.1 for Netology JavaQA
 
 ### Задание: Количество квадратов
 
